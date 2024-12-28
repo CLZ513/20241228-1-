@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6"
+  },
+  "include": [
+    "*.js",
+    "libraries/*.js",
+    "/Users/Shared/p5js/library/*.js"
+  ]
+}
